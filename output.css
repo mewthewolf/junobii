@@ -8633,6 +8633,9 @@
   .text-\[rgba\(255\,255\,255\,0\.87\)\] {
     color: rgba(255,255,255,0.87);
   }
+  .text-base-content {
+    color: var(--color-base-content);
+  }
   .text-neutral-content {
     color: var(--color-neutral-content);
   }
